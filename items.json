@@ -117,7 +117,7 @@
     "loi_nhan": "MẶT BIỂN RUNG CHUYỂN! BẠN VỪA THU PHỤC",
     "danh_sach": [
       {
-        "ten": "Rồng Biển",
+        "ten": "Thuỷ Long",
         "icon": "🐉",
         "gia": 50000,
         "ti_le_rieng": 10,
@@ -135,15 +135,29 @@
   "than_thoai": {
     "ten_hien_thi": "Thần Thoại 🔴",
     "mau_so": 300,
-    "loi_nhan": "TRỜI ĐẤT RUNG CHUYỂN, BIỂN CẢ NỔI SÓNG THẦN! BẠN VỪA THU PHỤC ĐƯỢC",
+    "loi_nhan": "TRỜI ĐẤT RUNG CHUYỂN, BIỂN XẺ LÀM ĐÔI ! BẠN VỪA THU PHỤC ĐƯỢC",
     "danh_sach": [
       {
-        "ten": "Thủy Quái Kraken",
+        "ten": "Kraken",
         "icon": "🌊",
         "gia": 200000,
         "ti_le_rieng": 6,
         "link_hinh": "https://placehold.co/600x400/ef4444/ffffff/png?text=Kraken"
       },
+      {
+        "ten": "Phượng Hoàng Biển",
+        "icon": "🔥",
+        "gia": 180000,
+        "ti_le_rieng": 4,
+        "link_hinh": "https://placehold.co/600x400/ef4444/ffffff/png?text=Phuong+Hoang+Bien"
+      }
+    ]
+  }
+  "than_thoai": {
+    "ten_hien_thi": "Thần Thoại 🔴",
+    "mau_so": 300,
+    "loi_nhan": "ÁNH DƯƠNG CỦA BIỂN CẢ !, CÙNG CHÀO ĐÓN BÌNH MINH TRÊN BIỂN ",
+    "danh_sach": [
       {
         "ten": "Phượng Hoàng Biển",
         "icon": "🔥",
